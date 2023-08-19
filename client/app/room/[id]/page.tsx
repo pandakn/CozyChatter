@@ -10,7 +10,6 @@ import ScrollToBottom from "react-scroll-to-bottom";
 import BubbleChat from "@/components/BubbleChat";
 import ChatTyping from "@/components/ChatTyping";
 import ChatForm from "@/components/ChatForm";
-import Avatar from "@/components/Avatar";
 
 // types
 import { Message } from "@/types/message";
